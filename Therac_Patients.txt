@@ -5,39 +5,59 @@ Location of the Accident
 Date of the Accident
 Extent of injuries to patient
 
+---
 
-1st slide
-“You burned me!”
+#“You burned me!”
 
-1st patient
+##1st patient
 Kennestone Regional Oncology Center in Marietta, June 3, 1985
-Patient's breast had to be removed, and she completely lost the use of her shoulder and arm (Leveson and Turner, 1993, p. 22).
+Patient's breast had to be removed, and she completely lost the use of her shoulder and arm.
+(Leveson and Turner, 1993, p. 22)
 
-2nd patient
+---
+
+#“You burned me!”
+
+##2nd patient
 Ontario Cancer Foundation clinic in Canada. On 26 July 1985
-She died three months later of cancer, but a total hip-replacement would have been necessary if she had continued to live (Leveson and Turner, 1993, p. 23) .
+She died three months later of cancer, but a total hip-replacement would have been necessary if she had continued to live. 
+(Leveson and Turner, 1993, p. 23)
 
-3rd patient
+---
+
+#“You burned me!”
+
+##3rd patient
 Yakima Valley Memorial Hospital in 1985
-Eventually, the patient received surgical treatment and, except for minor disability and scarring. (Leveson and Turner, 1993, p. 26-27).
+Eventually, the patient received surgical treatment and, except for minor disability and scarring. 
+>(Leveson and Turner, 1993, p. 26-27)
 
+---
 
-2nd slide
-"Deaths"
+#"Deaths"
 
-4th patient
+##4th patient
 East Texas Cancer Center in March of 1986.
-The patient eventually loss the use of his left arm and both legs, was unable to speak, and had several other complications. He died from complications five months later (Leveson and Turner, 1993, p. 27-28).
+The patient eventually loss the use of his left arm and both legs, was unable to speak, and had several other complications. He died from complications five months later 
+(Leveson and Turner, 1993, p. 27-28)
 
-5th patient
+---
+
+#"Deaths"
+
+##5th patient
 East Texas Cancer Center, in April of 1986
-He died three weeks after the accident, after falling into a coma and suffering severe neurological damage (Leveson and Turner, 1993, p. 28) .
+He died three weeks after the accident, after falling into a coma and suffering severe neurological damage. 
+(Leveson and Turner, 1993, p. 28)
 
-6th patient
+---
+
+#"Deaths"
+
+##6th patient
 Yakima Valley Memorial Hospital. On January 17, 1987 
-The Patient died three months later from complications related to the overdose (Leveson and Turner, 1993, p. 33) .
-
+The Patient died three months later from complications related to the overdose.
+(Leveson and Turner, 1993, p. 33)
 
 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940
-
 http://users.csc.calpoly.edu/~jdalbey/SWE/Papers/THERAC25.html
