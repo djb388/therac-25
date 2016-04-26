@@ -1,0 +1,5 @@
+International Electrotechnical Commission (IEC) 62304
+- Medical device software life cycle processes
+- Supersedes previous ISO standards 
+- 1996 amendment addressed failures
+- SOUP: software of unknown pedigree
