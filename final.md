@@ -61,8 +61,8 @@ class: center, middle
 # “You burned me!”
 
 ### 1st patient
-Kennestone Regional Oncology Center in Marietta, June 3, 1985
-Patient's breast had to be removed, and she completely lost the use of her shoulder and arm.
+- June 1985, Kennestone Regional Oncology Center, Marietta GA
+- Patient's breast had to be removed, and she completely lost the use of her shoulder and arm.
 <br />(Leveson and Turner, 1993, p. 22)
 
 ---
@@ -70,8 +70,8 @@ Patient's breast had to be removed, and she completely lost the use of her shoul
 # “You burned me!”
 
 ### 2nd patient
-Ontario Cancer Foundation clinic in Canada. On 26 July 1985
-She died three months later of cancer, but a total hip-replacement would have been necessary if she had continued to live.
+- July 1985, Ontario Cancer Foundation clinic in Canada
+- She died three months later of cancer, but a total hip-replacement would have been necessary if she had continued to live.
 <br />(Leveson and Turner, 1993, p. 23)
 
 ---
@@ -79,8 +79,8 @@ She died three months later of cancer, but a total hip-replacement would have be
 # “You burned me!”
 
 ### 3rd patient
-Yakima Valley Memorial Hospital in 1985
-Eventually, the patient received surgical treatment and, except for minor disability and scarring.
+- Dec 1985, Yakima Valley Memorial Hospital, WA
+- The patient received only minor disability and scarring from the accident.
 <br />(Leveson and Turner, 1993, p. 26-27)
 
 ---
@@ -88,8 +88,8 @@ Eventually, the patient received surgical treatment and, except for minor disabi
 # Deaths
 
 ### 4th patient
-East Texas Cancer Center in March of 1986.
-The patient eventually loss the use of his left arm and both legs, was unable to speak, and had several other complications. He died from complications five months later
+- March 1986, East Texas Cancer Center, TX
+- The patient eventually loss the use of his left arm and both legs, was unable to speak, and had several other complications. He died from complications five months later.
 <br />(Leveson and Turner, 1993, p. 27-28)
 
 ---
@@ -97,8 +97,8 @@ The patient eventually loss the use of his left arm and both legs, was unable to
 # Deaths
 
 ### 5th patient
-East Texas Cancer Center, in April of 1986
-He died three weeks after the accident, after falling into a coma and suffering severe neurological damage.
+- April 1986, East Texas Cancer Center, TX
+- He died three weeks after the accident, after falling into a coma and suffering severe neurological damage.
 <br />(Leveson and Turner, 1993, p. 28)
 
 ---
@@ -106,8 +106,8 @@ He died three weeks after the accident, after falling into a coma and suffering 
 # Deaths
 
 ### 6th patient
-Yakima Valley Memorial Hospital. On January 17, 1987
-The Patient died three months later from complications related to the overdose.
+- January 1987, Yakima Valley Memorial Hospital, WA
+- The Patient died three months later from complications related to the overdose.
 <br />(Leveson and Turner, 1993, p. 33)
 
 ---
