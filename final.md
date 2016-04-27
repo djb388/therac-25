@@ -2,7 +2,7 @@ class: center, middle
 
 # Therac 25
 
-By David Bell, Chad Bowman, Matt Gannon, Yue Hou, Michael Manning
+By David Bell, Chad Bowman, Matthew Gannon, Yue Hou, Michael Manning
 
 ---
 
