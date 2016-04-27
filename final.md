@@ -15,11 +15,6 @@ By David Bell, Chad Bowman, Matthew Gannon, Yue Hou, Michael Manning
 - Aftermath
 
 ---
-class: center, middle
-
-# What is Therac 25?
-
----
 
 # What is Therac 25?
 
@@ -27,98 +22,60 @@ class: center, middle
 - Two modes, direct and deep (5 Mev - 25 Mev, 25 Mev)
 - Developed by Atomic Enegy of Canada Limited (AECL) in 1982
 - 11 were installed in US, 6 in Canada
+- Massive radiation overdoses
+- 6 major accidents resulting in injury and death
+- "Worst series of radiation accidents in 35-year history"
 
 ???
 
+- Matt Speaks next
 - Direct electron-beam
 - Megavvolt X-ray
 - Mev = Mega Electron Volts
 - therac-6 &amp; therac-20 came before
 
 ---
-
-background-image: url(https://raw.githubusercontent.com/djb388/therac-25/master/therac1.GIF)
-
----
-
-background-image: url(https://raw.githubusercontent.com/djb388/therac-25/master/therac2.GIF)
-
----
-
-# What is Therac 25?
-
-- Massive radiation overdoses
-- 6 major accidents resulting in injury and death
-- "Worst series of radiation accidents in 35-year history"<br />(Leveson and Turner, 1993, p. 1)
-
----
-class: center, middle
-
-# Patient Case Studies
-
----
-
-# “You burned me!”
+## “You burned me!”
 
 ### 1st patient
 - June 1985, Kennestone Regional Oncology Center, Marietta GA
 - Patient's breast had to be removed, and she completely lost the use of her shoulder and arm.
-<br />(Leveson and Turner, 1993, p. 22)
-
----
-
-# “You burned me!”
 
 ### 2nd patient
 - July 1985, Ontario Cancer Foundation clinic in Canada
 - She died three months later of cancer, but a total hip-replacement would have been necessary if she had continued to live.
-<br />(Leveson and Turner, 1993, p. 23)
-
----
-
-# “You burned me!”
 
 ### 3rd patient
 - Dec 1985, Yakima Valley Memorial Hospital, WA
 - The patient received only minor disability and scarring from the accident.
-<br />(Leveson and Turner, 1993, p. 26-27)
 
 ---
-
-# Deaths
+## "Deaths"
 
 ### 4th patient
 - March 1986, East Texas Cancer Center, TX
-- The patient eventually loss the use of his left arm and both legs, was unable to speak, and had several other complications. He died from complications five months later.
-<br />(Leveson and Turner, 1993, p. 27-28)
-
----
-
-# Deaths
+- Lost use of his left arm and both legs, was unable to speak, and died from complications.
 
 ### 5th patient
 - April 1986, East Texas Cancer Center, TX
-- He died three weeks after the accident, after falling into a coma and suffering severe neurological damage.
-<br />(Leveson and Turner, 1993, p. 28)
-
----
-
-# Deaths
+- Died three weeks after the accident after falling into a coma.
 
 ### 6th patient
 - January 1987, Yakima Valley Memorial Hospital, WA
 - The Patient died three months later from complications related to the overdose.
-<br />(Leveson and Turner, 1993, p. 33)
+
+???
+
+- Yue speaks next
 
 ---
 class: center, middle
 
 # Technical Failures
 
----
-class: center, middle
+???
 
-# Current Software Regulations
+- Chad speaks next
 
 ---
 
@@ -134,11 +91,9 @@ class: center, middle
 - "...software engineering needs an even greater level of managerial
 scrutiny and control than does hardware engineering."
 
----
+???
 
-class: center, middle
-
-# Aftermath
+- David speaks next
 
 ---
 
@@ -161,11 +116,6 @@ background-image: url(https://raw.githubusercontent.com/djb388/therac-25/master/
 background-image: url(https://raw.githubusercontent.com/djb388/therac-25/master/Dave_slide_2_image.JPG)
 
 ---
-class: center, middle
-
-# Final Thoughts
-
----
 
 # Sources
 
@@ -180,3 +130,4 @@ class: center, middle
 - [Image - World Map](https://upload.wikimedia.org/wikipedia/commons/d/dc/IEC_membership.png)
 - [Image - Software Flow Chart](https://webstore.iec.ch/preview/info_iec62304%7Bed1.1%7Den.pdf)
 - [Image - FDA](http://www.diamonddiagnostics.com/en/grfx/FDA.png)
+
