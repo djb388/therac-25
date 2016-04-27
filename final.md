@@ -11,7 +11,7 @@ By Chad Bowman, David Bell, Matt Gannon, Michael Manning, Yue
 - What is Therac 25?
 - Patient Case Studies
 - Technical Failures
-- Laws and Regulations
+- Current Software Regulations
 - Aftermath
 
 ---
@@ -117,9 +117,24 @@ class: center, middle
 ---
 class: center, middle
 
-# Laws &amp; Regulations
+# Current Software Regulations
 
 ---
+
+# Current Software Regulations
+
+.center[![FDA Image](http://www.diamonddiagnostics.com/en/grfx/FDA.png)]
+
+- Audits software in medical and non-medical devices
+- Multiple regulatory requirements
+- Design validation, Automated processes, Corrective and preventative action
+- Basic Software Requirements
+- Records, Integration and Unit testing, Design history file, Quality audits, and many, many more.
+- "...software engineering needs an even greater level of managerial
+scrutiny and control than does hardware engineering."
+
+---
+
 class: center, middle
 
 # Aftermath
@@ -156,8 +171,11 @@ class: center, middle
 - [An investigation of the Therac-25 accidents](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=274940)
 - [Death and Denial: The Failure of the THERAC-25, A Medical Linear Accelerator](http://users.csc.calpoly.edu/~jdalbey/SWE/Papers/THERAC25.html)
 - [Medical Device Software - Software life cycle processes](https://webstore.iec.ch/preview/info_iec62304%7Bed1.1%7Den.pdf)
+- [Medical Product Software Development](http://occs.ieee.org/presentations/2006/060327_Wyrwa_MedicalDevice.pdf)
+- [Software Quote](http://www.fda.gov/cdrh/comp/guidance/938.pdf)
 - [Therac-25](https://en.wikipedia.org/wiki/Therac-25)
 - [Image - Therac 1](http://courses.cs.vt.edu/professionalism/Therac_25/Figure.1.GIF)
 - [Image - Therac 2](http://2.bp.blogspot.com/_t2Wft402i8Y/S4iF6lfNgPI/AAAAAAAAANs/svqtGP3-ASE/s320/therac25.gif)
 - [Image - World Map](https://upload.wikimedia.org/wikipedia/commons/d/dc/IEC_membership.png)
 - [Image - Software Flow Chart](https://webstore.iec.ch/preview/info_iec62304%7Bed1.1%7Den.pdf)
+- [Image - FDA](http://www.diamonddiagnostics.com/en/grfx/FDA.png)
