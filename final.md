@@ -26,6 +26,7 @@ class: center, middle
 - Medical Electron accelerator, used for electron therapy
 - Two modes, direct and deep (5 Mev - 25 Mev, 25 Mev)
 - Developed by Atomic Enegy of Canada Limited (AECL) in 1982
+- 11 were installed in US, 6 in Canada
 
 ???
 
